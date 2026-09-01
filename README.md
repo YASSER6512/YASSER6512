@@ -2,21 +2,15 @@
 ### Ethical Hacker & Cybersecurity Specialist
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev" />
-</p>
+  <img src="https://skillicons.dev" /
 - 🌍 Based in Bangladesh
 - 💼 Open to Cybersecurity roles, freelance VAPT contracts, and collaborations
 - ✉️ Contact me at: [yasserarafat@gmail.com](mailto:yasserarafat@gmail.com)
-
----
-
 ### 🛡️ Areas of Expertise
 - *Vulnerability Assessment & Penetration Testing (VAPT)* (Web, Network, API)
 - *Ethical Hacking & Exploitation Techniques*
 - *Security Auditing & Infrastructure Hardening*
 - *Incident Response & Threat Intelligence*
-
----
 - *OS:* Kali Linux, Parrot OS, Linux/Unix
 - *Tools:* Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Nessus
-- *Languages:* Python, Bash, SQL, HTML/CSS
+- *Languages:* Python, Bash, SQL, HTML/CS
