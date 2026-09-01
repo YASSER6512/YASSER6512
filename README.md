@@ -1,33 +1,12 @@
 # Hi there, I'm MD YASSER ARAFAT 👋
 ### ⚔️ Ethical Hacker & Cybersecurity Specialist
-
 An offensive security enthusiast and dedicated Cybersecurity Specialist focused on identifying vulnerabilities, running advanced penetration tests, and securing modern digital infrastructures against evolving threats.
-
 - 📍 Based in Bangladesh
 - 💼 Open to Cybersecurity roles, freelance VAPT contracts, and collaborations
-- 📧 Contact me at: [yasserarafat@gmail.com](mailto:yasserarafat@gmail.com)
-
----
-
+- 📧 Contact me at: [www.9821114112@gmail.com](mailto:yasserarafat@gmail.com)
 ### 🛡️ Areas of Expertise
 - *Vulnerability Assessment & Penetration Testing (VAPT)* (Web, Network, API)
 - *Ethical Hacking & Exploitation Techniques*
-- *Security Auditing & Infrastructure Hardening*
-- *Incident Response & Threat Intelligence*
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev" />
-</p>
-- *OS:* Kali Linux, Parrot OS, Linux/Unix
-- *Tools:* Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Nessus
-- *Languages:* Python, Bash, SQL, HTML/CSS
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yasir Arafat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-yasser-arafat-17b45326b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.9821114112@gmail.com) 
 
