@@ -1,8 +1,6 @@
-# Hi there, I'm MD YASSER ARAFAT 👋
-### ⚔️ Ethical Hacker & Cybersecurity Specialist
-An offensive security enthusiast and dedicated Cybersecurity Specialist focused on identifying vulnerabilities, running advanced penetration tests, and securing modern digital infrastructures against evolving threats.
-- 📍 Based in Bangladesh
-- 💼 Open to Cybersecurity roles, freelance VAPT contracts, and collaborations
+### ⚔️ Ethical Hacker & Cybersecurity beginner
+Cyber Security Enthusiast & Ethical Hacker 🛡️ | Passionate about finding system vulnerabilities and securing digital assets. Always learning new penetration testing techniques and exploring the world of cyber defense. Let's make the internet a safer place!
+- 📍 Based in Bangladeshs
 - 📧 Contact me at: [www.9821114112@gmail.com](mailto:yasserarafat@gmail.com)
 ### 🛡️ Areas of Expertise
 - *Vulnerability Assessment & Penetration Testing (VAPT)* (Web, Network, API)
