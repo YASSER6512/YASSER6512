@@ -1,6 +1,9 @@
 # Hi there, I'm MD YASSER ARAFAT 👋
 ### Ethical Hacker & Cybersecurity Specialist
-
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 An offensive security enthusiast and dedicated Cybersecurity Specialist focused on identifying vulnerabilities, running advanced penetration tests, and securing modern digital infrastructures against evolving threats.
 
 - 🌍 Based in Bangladesh
