@@ -4,8 +4,6 @@
 <p align="left">
   <img src="https://skillicons.dev" />
 </p>
-An offensive security enthusiast and dedicated Cybersecurity Specialist focused on identifying vulnerabilities, running advanced penetration tests, and securing modern digital infrastructures against evolving threats.
-
 - 🌍 Based in Bangladesh
 - 💼 Open to Cybersecurity roles, freelance VAPT contracts, and collaborations
 - ✉️ Contact me at: [yasserarafat@gmail.com](mailto:yasserarafat@gmail.com)
