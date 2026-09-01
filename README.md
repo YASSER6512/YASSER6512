@@ -17,8 +17,6 @@
 - *Incident Response & Threat Intelligence*
 
 ---
-
-### 🧰 Tech Stack & Tools
 - *OS:* Kali Linux, Parrot OS, Linux/Unix
 - *Tools:* Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Nessus
 - *Languages:* Python, Bash, SQL, HTML/CSS
