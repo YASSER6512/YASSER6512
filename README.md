@@ -21,7 +21,9 @@ An offensive security enthusiast and dedicated Cybersecurity Specialist focused 
 <p align="left">
   <img src="https://skillicons.dev" />
 </p>
-
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 - *OS:* Kali Linux, Parrot OS, Linux/Unix
 - *Tools:* Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Nessus
 - *Languages:* Python, Bash, SQL, HTML/CSS
